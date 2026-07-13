@@ -6,6 +6,8 @@
 
 # Marmat Labs
 
+![Marmat Labs](https://raw.githubusercontent.com/marmatlabs/.github/main/profile/logo.png)
+
 **Building modern software, cloud platforms and AI-powered products.**
 
 We design and build scalable digital products with a focus on software engineering,
