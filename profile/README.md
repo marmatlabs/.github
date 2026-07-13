@@ -11,7 +11,6 @@
 We design and build reliable digital products with a focus on software engineering,
 cloud infrastructure, automation and applied artificial intelligence.
 
-[Website](https://marmatlabs.com) &nbsp;·&nbsp;
 [Engineering](https://github.com/marmatlabs/engineering) &nbsp;·&nbsp;
 [Contact](mailto:hello@marmatlabs.com)
 
@@ -32,5 +31,4 @@ Our engineering principles and standards are public, in
 
 ## Get in touch
 
-- Website: [marmatlabs.com](https://marmatlabs.com)
 - Email: [hello@marmatlabs.com](mailto:hello@marmatlabs.com)
